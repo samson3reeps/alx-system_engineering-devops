@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "/root@098510879ea8:i/alx-system_engineering-devops/0x00-shell_basics"
+pwd
